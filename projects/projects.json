@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Simon-GameChallenge",
+    "desc": "A web-based interactive Simon Game, where users test and improve their memory by repeating an ever-growing sequence of lights and sounds.",
+    "image": "Simon-GameChallenge",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Saiharitha3/Simon-GameChallenge/blob/main/README.md",
+      "code": "https://github.com/Saiharitha3/Simon-GameChallenge"
+    }
+  },
+  {
+    "name": "Drum-kit",
+    "desc": "This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.",
+    "image": "Drum-kit",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Saiharitha3/Drum-kit/blob/main/README.md",
+      "code": "https://github.com/Saiharitha3/Drum-kit"
+    }
+  },
+  {
+    "name": "Satin - AI project",
+    "desc": "Enhanced telescope imagery resolution and automated distance calculations using AI.Utilized Convolutional Neural Networks (CNNs) to refine image details and AI algorithms to calculate object distances based on parallax.",
+    "image": "Satin - AI project",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Detection of Drunk Driving",
+    "desc": "Developed an automatic system for detecting drunk driving using advanced machine learning algorithms and sensor data.everaged AI techniques to identify signs of impairment in real-time.",
+    "image": "Detection of Drunk Driving",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "RDH-EI framework",
+    "desc": "This project proposes a novel Reversible Data Hiding in Encrypted Images (RDH-EI) framework using Reversible Image Transformation (RIT), which disguises encrypted images as target images to ensure privacy while enabling seamless data embedding by the cloud. Two RDH methods are used to balance high image quality and large embedding capacity, meeting diverse needs.",
+    "image": "RDH-EI framework",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
