@@ -29,6 +29,15 @@
     }
   },
   {
+    "name": "TinDog",
+    "desc": "TinDog is a Tinder-style app for dogs, it is just home page developed very basic version of the website.",
+    "image": "TinDong",
+    "links": {
+      "view": "https://github.com/Saiharitha3/Tin-Dog/blob/main/README.md",
+      "code": "https://github.com/Saiharitha3/Tin-Dog"
+    }
+  },
+  {
     "name": "Detection of Drunk Driving",
     "desc": "Developed an automatic system for detecting drunk driving using advanced machine learning algorithms and sensor data.everaged AI techniques to identify signs of impairment in real-time.",
     "image": "Detection of Drunk Driving",
